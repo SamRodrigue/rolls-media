@@ -1,0 +1,5 @@
+{
+  "NONE":    [ 0, "Move Tool",   null         ],
+  "BOULDER": [ 1, "Boulder",    "boulder.png" ],
+  "CHEST":   [ 2, "Chest",      "chest.png"   ]
+}
