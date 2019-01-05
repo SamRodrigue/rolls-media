@@ -10,5 +10,6 @@
   "KENKU":      [ 8,  "Kenku",      "Kenku.png"      ],
   "BLUE":       [ 9,  "Blue",       "Blue.png"       ],
   "GREEN":      [ 10, "Green",      "Green.png"      ],
-  "RED":        [ 11, "Red",        "Red.png"        ]
+  "RED":        [ 11, "Red",        "Red.png"        ],
+  "PANTHER":    [ 12, "Panther",    "Panther.png"    ]
 }
