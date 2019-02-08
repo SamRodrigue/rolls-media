@@ -4,6 +4,7 @@
   "WALL":    [2, "Wall",    "wall.png"  ],
   "ENTITY":  [3, "Entiies", "asset.png" ],
   "ASSET":   [4, "Assets",  "asset.png" ],
-  "ERASE":   [5, "Erase",   "erase.png" ],
-  "TEXTURE": [6, "Texture",  null       ]
+  "MOVE":    [5, "Move",    "erase.png" ],
+  "ERASE":   [6, "Erase",   "erase.png" ],
+  "TEXTURE": [7, "Texture",  null       ]
 }

@@ -1,15 +1,14 @@
 {
-  "NONE":       [ 0,  "Move Tool",   null            ],
-  "AARAKOCRA":  [ 1,  "Aarakocra",  "Aarakocra.png"  ],
-  "AASIMAR":    [ 2,  "Aasimar",    "Aasimar.png"    ],
-  "DRAGONBORN": [ 3,  "Dragonborn", "Dragonborn.png" ],
-  "ELF":        [ 4,  "Elf",        "Elf.png"        ],
-  "ELF_1":      [ 5,  "Elf_1",      "Elf_1.png"      ],
-  "FIRBOLG":    [ 6,  "Firbolg",    "Firbolg.png"    ],
-  "HALF_ELF":   [ 7,  "Half-Elf",   "Half-Elf.png"   ],
-  "KENKU":      [ 8,  "Kenku",      "Kenku.png"      ],
-  "BLUE":       [ 9,  "Blue",       "Blue.png"       ],
-  "GREEN":      [ 10, "Green",      "Green.png"      ],
-  "RED":        [ 11, "Red",        "Red.png"        ],
-  "PANTHER":    [ 12, "Panther",    "Panther.png"    ]
+  "AARAKOCRA":  [ 0,  "Aarakocra",  "Aarakocra.png"  ],
+  "AASIMAR":    [ 1,  "Aasimar",    "Aasimar.png"    ],
+  "DRAGONBORN": [ 2,  "Dragonborn", "Dragonborn.png" ],
+  "ELF":        [ 3,  "Elf",        "Elf.png"        ],
+  "ELF_1":      [ 4,  "Elf_1",      "Elf_1.png"      ],
+  "FIRBOLG":    [ 5,  "Firbolg",    "Firbolg.png"    ],
+  "HALF_ELF":   [ 6,  "Half-Elf",   "Half-Elf.png"   ],
+  "KENKU":      [ 7,  "Kenku",      "Kenku.png"      ],
+  "BLUE":       [ 8,  "Blue",       "Blue.png"       ],
+  "GREEN":      [ 9,  "Green",      "Green.png"      ],
+  "RED":        [ 10, "Red",        "Red.png"        ],
+  "PANTHER":    [ 11, "Panther",    "Panther.png"    ]
 }
