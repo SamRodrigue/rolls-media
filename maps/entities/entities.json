@@ -13,6 +13,7 @@
   "FIRBOLG":         [ 8,  "Firbolg",         "firbolg.png"         ],
   "GENASI_FIRE":     [ 20, "Genasi Fire",     "genasi-fire.png"     ],
   "HALF_ELF":        [ 9,  "Half-Elf",        "half-elf.png"        ],
+  "HALF_ORC":        [ 31, "Half-Orc",        "half-orc.png"        ],
   "HAFLING":         [ 21, "Halfling",        "halfling.png"        ],
   "HAFLING_1":       [ 22, "Halfling 1",      "halfling_1.png"      ],
   "KENKU":           [ 10, "Kenku",           "kenku.png"           ],
