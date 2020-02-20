@@ -7,5 +7,6 @@
   "MOVE":    [5, "Move",    "erase.png" ],
   "DRAW":    [6, "Draw",    "erase.png" ],
   "ERASE":   [7, "Erase",   "erase.png" ],
-  "TEXTURE": [8, "Texture",  null       ]
+  "TEXTURE": [8, "Texture",  null       ],
+  "FOG":     [9, "Fog",      null       ]
 }

@@ -1,10 +1,11 @@
 {
   "NONE":  [ 0, "Erase",  null       ],
-  "GRASS": [ 1, "Grass", "grass.png" ],
-  "LAVA":  [ 2, "Lava",  "lava.png"  ],
-  "ROCK":  [ 3, "Rock",  "rock.png"  ],
-  "SAND":  [ 4, "Sand",  "sand.png"  ],
-  "STONE": [ 5, "Stone", "stone.png" ],
-  "WATER": [ 6, "Water", "water.png" ],
-  "WOOD":  [ 7, "Wood",  "wood.png"  ]
+  "FOG":   [ 1, "Fog",   "fog.png"   ],
+  "GRASS": [ 2, "Grass", "grass.png" ],
+  "LAVA":  [ 3, "Lava",  "lava.png"  ],
+  "ROCK":  [ 4, "Rock",  "rock.png"  ],
+  "SAND":  [ 5, "Sand",  "sand.png"  ],
+  "STONE": [ 6, "Stone", "stone.png" ],
+  "WATER": [ 7, "Water", "water.png" ],
+  "WOOD":  [ 8, "Wood",  "wood.png"  ]
 }
