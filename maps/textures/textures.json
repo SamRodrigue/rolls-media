@@ -1,5 +1,5 @@
 {
-  "NONE":  [ 0, "Erase",  null       ],
+  "NONE":  [ 0, "Erase", "erase.png" ],
   "FOG":   [ 1, "Fog",   "fog.png"   ],
   "GRASS": [ 2, "Grass", "grass.png" ],
   "LAVA":  [ 3, "Lava",  "lava.png"  ],
