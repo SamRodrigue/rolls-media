@@ -1,6 +1,7 @@
 {
   "AARAKOCRA":       [ 0,  "Aarakocra",       "aarakocra.png"       ],
   "AASIMAR":         [ 1,  "Aasimar",         "aasimar.png"         ],
+  "BUFFALO":         [ 32, "Buffalo",         "buffalo.png"         ],
   "DRAGON":          [ 2,  "Dragon",          "dragon.png"          ],
   "DRAGONBORN":      [ 3,  "Dragonborn",      "dragonborn.png"      ],
   "DUODRONE":        [ 17, "Duodrone",        "duodrone.png"        ],
@@ -13,6 +14,7 @@
   "FIRBOLG":         [ 8,  "Firbolg",         "firbolg.png"         ],
   "GENASI_FIRE":     [ 20, "Genasi Fire",     "genasi-fire.png"     ],
   "HALF_ELF":        [ 9,  "Half-Elf",        "half-elf.png"        ],
+  "HALF_ELF_1":      [ 33, "Half-Elf 1",      "half-elf_1.png"      ],
   "HALF_ORC":        [ 31, "Half-Orc",        "half-orc.png"        ],
   "HAFLING":         [ 21, "Halfling",        "halfling.png"        ],
   "HAFLING_1":       [ 22, "Halfling 1",      "halfling_1.png"      ],

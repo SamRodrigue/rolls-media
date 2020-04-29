@@ -5,6 +5,7 @@
   "BED":         [ 3,  "Bed",         "bed.png"         ],
   "BED_ROLL":    [ 4,  "Bed Roll",    "bed-roll.png"    ],
   "BENCH":       [ 5,  "Bench",       "bench.png"       ],
+  "BLOOD":       [ 26, "Blood",       "blood.png"       ],
   "BRAZIER":     [ 6,  "Brazier",     "brazier.png"     ],
   "BUSH":        [ 7,  "Bush",        "bush.png"        ],
   "CHAIR":       [ 8,  "Chair",       "chair.png"       ],
